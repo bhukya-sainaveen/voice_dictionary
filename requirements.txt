@@ -1,0 +1,5 @@
+gTTS==2.5.0
+SpeechRecognition==3.10.1
+PyAudio==0.2.14
+pygame==2.5.2
+nltk==3.8.1
