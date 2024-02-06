@@ -1,4 +1,4 @@
-# voice dictionary
+# Voice Dictionary
 ## Description
 The repository contains code for the Voice dictionary which is my personal project in Python. The user can speak out any word and get the meaning, synonyms, and antonyms of the word as a voice output.
 
